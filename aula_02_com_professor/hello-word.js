@@ -1,0 +1,2 @@
+var nome = 'Lucas'
+let
